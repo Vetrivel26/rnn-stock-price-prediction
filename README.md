@@ -26,8 +26,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ### Import necessary libraries:
 ```
-Name : Bairav Skandan Loha
-Register no:212221230010
+Name : VETRIVEL S
+Register no:212221240060
 ```
 ```python
 import numpy as np
